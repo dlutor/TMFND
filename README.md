@@ -26,7 +26,7 @@ bash ./shells/train_weibo.sh
 bash ./shells/train_fakeddit.sh
 ```
 
-## Calibration model
+## Calibrate model
 
 ```bash
 bash ./shells/train_calibration_twitter.sh
