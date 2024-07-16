@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 **Weibo**: We use the dataset provided from [EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18), you can download image datas (nonrumor_images/rumor_images) via [https://drive.google.com/file/d/14VQ7EWPiFeGzxp3XC2DeEHi-BEisDINn/view?usp=sharing](https://drive.google.com/file/d/14VQ7EWPiFeGzxp3XC2DeEHi-BEisDINn/view?usp=sharing). (Approximately 1.3GB)
 
-**Fakeddit**: We provide  the proceesed dataset, and just download image datas from the official repository [Fakeddit](https://github.com/entitize/Fakeddit) via [https://drive.google.com/file/d/1cjY6HsHaSZuLVHywIxD5xQqng33J5S2b/view?usp=sharing](https://drive.google.com/file/d/1cjY6HsHaSZuLVHywIxD5xQqng33J5S2b/view?usp=sharing). (Approximately 113.6GB) The label is different from above datasets, 1 is the real news.
+**Fakeddit**: We provide  the proceesed dataset, and just download image datas from the official repository [Fakeddit](https://github.com/entitize/Fakeddit) via [https://drive.google.com/file/d/1cjY6HsHaSZuLVHywIxD5xQqng33J5S2b/view?usp=sharing](https://drive.google.com/file/d/1cjY6HsHaSZuLVHywIxD5xQqng33J5S2b/view?usp=sharing). (Approximately 113.6GB) The label is different from above datasets, and 1 is the real news.
 
 # Train and Test
 
